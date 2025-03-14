@@ -6,5 +6,4 @@ const divide = function(a, b) {
   
   const add = (a, b) => a + b;
   
-  module.exports = { divide, square, add };
-  
+ 
